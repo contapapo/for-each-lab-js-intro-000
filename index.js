@@ -7,7 +7,8 @@ function iterativeLog(array) {
 
 function iterate(callback) {
   table = ["apple", "grape", "lemon"];
-
+  array.forEach(callback);
+  return array;
 }
 
 function doToArray(array, callback) {
