@@ -1,9 +1,9 @@
 function iterativeLog(array) {
-  table = ["apple", "grape", "lemon"];
-
+  array.forEach(console.log(${index}: ${element});)
 }
 
 function iterate(callback) {
+  table = ["apple", "grape", "lemon"];
 
 }
 
