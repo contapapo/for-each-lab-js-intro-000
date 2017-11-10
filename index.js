@@ -1,5 +1,6 @@
 function iterativeLog(array) {
-
+  table = [];
+  
 }
 
 function iterate(callback) {
