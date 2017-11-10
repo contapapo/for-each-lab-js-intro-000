@@ -1,6 +1,6 @@
 function iterativeLog(array) {
-  table = [];
-  
+  table = ["apple", "grape", "lemon"];
+
 }
 
 function iterate(callback) {
